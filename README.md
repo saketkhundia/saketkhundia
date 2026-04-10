@@ -26,7 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Saket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saketkhundia&show_icons=true&theme=tokyonight)
+![Saket's GitHub Stats](https://YOUR-PROJECT.vercel.app/api?username=saketkhundia&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://YOUR-PROJECT.vercel.app/api/top-langs/?username=saketkhundia&layout=compact&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saketkhundia&layout=compact&theme=tokyonight)
 
