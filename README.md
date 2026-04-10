@@ -26,10 +26,7 @@
 
 ## 📊 GitHub Stats
 
-![Saket's GitHub Stats](https://githubreporeadmesaket-km9iip1l8-saketkhundias-projects.vercel.app/api?username=saketkhundia&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://githubreporeadmesaket-km9iip1l8-saketkhundias-projects.vercel.app/api/top-langs/?username=saketkhundia&layout=compact&theme=tokyonight)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=saketkhundia&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📫 Connect with Me
 
