@@ -24,10 +24,11 @@
 
 ---
 
-![Saket's GitHub Stats](https://githubreporeadmesaket-1danx8vi4-saketkhundias-projects.vercel.app/api?username=saketkhundia&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://githubreporeadmesaket-1danx8vi4-saketkhundias-projects.vercel.app/api/top-langs/?username=saketkhundia&layout=compact&theme=tokyonight)
+![Saket's GitHub Stats](https://githubreporeadmesaket-km9iip1l8-saketkhundias-projects.vercel.app/api?username=saketkhundia&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://githubreporeadmesaket-km9iip1l8-saketkhundias-projects.vercel.app/api/top-langs/?username=saketkhundia&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Connect with Me
