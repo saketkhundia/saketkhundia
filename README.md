@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Saket
+# Hi , I'm Saket
 
-💡 Passionate about building software solutions  
+💡 Passionate about software development ,problem solving and learning new things.  
 
 ---
 
